@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-scroll-reveal",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Animate DOM elements on scroll changes.",
   "repository": "https://github.com/solublestudio/gatsby-plugin-scroll-reveal",
   "homepage": "https://github.com/solublestudio/gatsby-plugin-scroll-reveal#readme",
@@ -32,6 +32,6 @@
   },
   "peerDependencies": {
     "gatsby": ">=2.0.0",
-    "react": "^16.8.0"
+    "react": ">=16.8.0"
   }
 }
